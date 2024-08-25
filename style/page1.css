@@ -64,14 +64,14 @@ body{
     color: #a31e1e;
 }
 .word{
-    width: 80%;
+    width: 90%;
     
     position: absolute;
     top: 70px;
     left: 10%;
 }
 .word h1,h3{
-    width: 80%;
+    width: 90%;
     font-size: 22px;
     margin: auto;
     justify-content: space-around;
