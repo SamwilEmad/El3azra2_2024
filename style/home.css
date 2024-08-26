@@ -55,7 +55,7 @@ h3{
     display: flex;
     justify-content: space-around;
     position: absolute;
-    top: 300px;
+    bottom: 20px;
     border: 3px solid #021024;
     border-radius: 10px;
     
@@ -99,4 +99,10 @@ h3{
 }
 .link:hover{
     color: #a31e1e;
+}
+.img1{
+    width:250px;
+}
+.img1 img{
+    width:400px;
 }

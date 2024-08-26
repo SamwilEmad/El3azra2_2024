@@ -87,3 +87,8 @@ audio{
     width: 100%;
    
 }
+img{
+    width: 400px;
+    position: absolute;
+    bottom: 100px;
+}
